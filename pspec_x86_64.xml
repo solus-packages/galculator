@@ -6,7 +6,7 @@
             <Email>joshua@stroblindustries.com</Email>
         </Packager>
         <License>GPL-2.0</License>
-        <PartOf>office</PartOf>
+        <PartOf>office.maths</PartOf>
         <Summary xml:lang="en">GTK2 / GTK3 based calculator</Summary>
         <Description xml:lang="en">galculator is a calculator based on GTK2 / GTK3 that is capable of ordinary notation as well as reverse polish notation (RPN), formula entry mode, different number bases, and angles.
 </Description>
@@ -17,7 +17,7 @@
         <Summary xml:lang="en">GTK2 / GTK3 based calculator</Summary>
         <Description xml:lang="en">galculator is a calculator based on GTK2 / GTK3 that is capable of ordinary notation as well as reverse polish notation (RPN), formula entry mode, different number bases, and angles.
 </Description>
-        <PartOf>office</PartOf>
+        <PartOf>office.maths</PartOf>
         <Files>
             <Path fileType="executable">/usr/bin</Path>
             <Path fileType="data">/usr/share/appdata/galculator.appdata.xml</Path>
@@ -31,8 +31,8 @@
         </Files>
     </Package>
     <History>
-        <Update release="3">
-            <Date>2016-07-05</Date>
+        <Update release="4">
+            <Date>2016-08-08</Date>
             <Version>2.1.4</Version>
             <Comment>Packaging update</Comment>
             <Name>Joshua Strobl</Name>
