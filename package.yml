@@ -1,9 +1,9 @@
 name       : galculator
 version    : 2.1.4
-release    : 6
+release    : 7
 source     :
     - https://github.com/galculator/galculator/archive/v2.1.4.tar.gz : dcbdb48ddf8a3f68b9aa5902f880f174fd269de2b7410988148d05871012e142
-license    : GPL-2.0
+license    : GPL-2.0-only
 component  : office.maths
 summary    : GTK2 / GTK3 based calculator
 description: |
